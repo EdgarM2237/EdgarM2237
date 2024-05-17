@@ -12,7 +12,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page 
   
-🌱 I’m currently learning : C++
+🌱 I’m currently learning : C#
 
   🤔 I’m Not looking for help
 
