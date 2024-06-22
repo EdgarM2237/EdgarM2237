@@ -12,7 +12,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page 
   
-🌱 I’m currently learning : C#
+🌱 I’m currently learning : React
 
   🤔 I’m Not looking for help
 
@@ -31,18 +31,18 @@
 
 ### 👨‍💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,cpp,cs,arduino,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,arduino,py)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=react,qt,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,qt,opencv,nodejs,tailwind)](https://skillicons.dev)
 
 ### 🗄️ Databases and Cloud Hosting
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,github)](https://skillicons.dev)
 
 
 ### 💻 Software and Tools
-[![My Skills](https://skillicons.dev/icons?i=clion,discord,pycharm,visualstudio,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,pycharm,vscode,wordpress,git,npm)](https://skillicons.dev)
 
 
 ### ✍️Random Dev Quote
