@@ -31,11 +31,11 @@
 
 ### 👨‍💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,cpp,cs,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,cpp,cs,arduino,js)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,godot,qt,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,qt,opencv)](https://skillicons.dev)
 
 ### 🗄️ Databases and Cloud Hosting
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,github)](https://skillicons.dev)
