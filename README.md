@@ -12,7 +12,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page 
   
-🌱 I’m currently learning : React
+🌱 I’m currently learning : Ros2
 
   🤔 I’m Not looking for help
 
